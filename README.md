@@ -24,3 +24,6 @@ I love computer science as a hobby, and plan to major in it in post-secondary sc
 [Scouting Website](https://frc4079.org/scouting)
 
 [OA Code Club Home Page](https://oacode.up.railway.app/)
+
+# Languages Used
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enVId-tech)](https://github.com/anuraghazra/github-readme-stats)
