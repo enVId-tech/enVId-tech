@@ -26,7 +26,7 @@ I love computer science as a hobby, and plan to major in it in post-secondary sc
 [OA Code Club Home Page](https://oacode.up.railway.app/)
 
 # Languages Used
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enVId-tech&layout=donut-vertical)](https://github.com/enVId-tech/github-readme-stats)
+[![Top Langs](https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/top-langs/?username=enVId-tech&layout=donut-vertical)](https://github.com/enVId-tech/github-readme-stats)
 
 # Amount of time spent on languages
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=enVId_Tech)](https://github.com/enVId-tech/github-readme-stats)
