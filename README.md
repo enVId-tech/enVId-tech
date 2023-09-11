@@ -12,6 +12,8 @@ I am a high school student at Oxford Academy.
 Working as a software developer in [Oxford Academy Robotics](https://frc4079.org/)
 
 I love computer science as a hobby, and plan to major in it in post-secondary school.
+I have 3 years of self study on programming, particularly website development.
+I primarily use the MERN stack, however I have worked with Angular, Ionic, and React Native
 
 # Socials
 [Youtube](https://www.youtube.com/@enVIdGaming)
