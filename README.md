@@ -33,11 +33,15 @@ Studying computer science in school, as well as at home while learning bash and 
 
 [School Schedules Website](https://github.com/enVId-tech/Schedules)
 
-# Current Projects
-
 [Oxford Academy Website](https://github.com/enVId-tech/OA-Website)
 
 [Arduino Mechanum Drive Design](https://github.com/enVId-tech/MecanumDriveArduino)
+
+# Current Projects
+
+AI Voice to Text translator
+
+[Oxford Academy Instruemental Music Website](https://github.com/enVId-tech/OAIM-Website)
 
 # Languages Used
 [![Top Langs](https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/top-langs/?username=enVId-tech&layout=donut-vertical&langs_count=32&exclude_repo=ReadmeLang)](https://github.com/enVId-tech/enVId-tech)
