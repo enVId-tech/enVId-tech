@@ -41,9 +41,9 @@ Currently studying Python and AI development.
 
 # Current Projects
 
-[AI Voice to Text translator](https://github.com/enVId-tech/Voice-Recognition-AI)
+[AI Voice to Text Translator](https://github.com/enVId-tech/Voice-Recognition-AI)
 
-[Oxford Academy Instruemental Music Website](https://github.com/enVId-tech/OAIM-Website)
+[Oxford Academy Instrumental Music Website](https://github.com/enVId-tech/OAIM-Website)
 
 # Languages Used
 [![Top Langs](https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/top-langs/?username=enVId-tech&layout=donut-vertical&langs_count=32&exclude_repo=ReadmeLang)](https://github.com/enVId-tech/enVId-tech)
