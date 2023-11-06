@@ -9,13 +9,15 @@ Also known online as [enVId Tech](https://github.com/enVId-tech)
 
 I am a high school student at Oxford Academy.
 
-Working as a software developer in [Oxford Academy Robotics](https://frc4079.org/)
+Working as a software developer in [Oxford Academy Robotics](https://frc4079.org/) and [OA STEM](https://github.com/OASTEM)
 
 I love computer science as a hobby, and plan to major in it in post-secondary school.
 I have 3 years of self study on programming, particularly website development.
 I primarily use the MERN stack, however I have worked with Angular, Ionic, and React Native
 
-Studying computer science in school, as well as at home while learning bash and shell.
+Studying computer science in school, as well as self-studying at home.
+
+Currently studying Python and AI development.
 
 # Socials
 [Youtube](https://www.youtube.com/@enVIdGaming)
@@ -39,7 +41,7 @@ Studying computer science in school, as well as at home while learning bash and 
 
 # Current Projects
 
-AI Voice to Text translator
+[AI Voice to Text translator](https://github.com/enVId-tech/Voice-Recognition-AI)
 
 [Oxford Academy Instruemental Music Website](https://github.com/enVId-tech/OAIM-Website)
 
