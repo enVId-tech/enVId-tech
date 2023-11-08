@@ -1,4 +1,4 @@
-<img src="./assets/cyberpunk-gif.gif" width="100%" height="400px">
+<img src="./assets/cyberpunk-gif.gif" width="100%" height="300px">
 
 <div align="center">
   <a href="https://github.com/enVId-tech" width="100%">
