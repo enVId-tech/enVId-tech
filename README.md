@@ -10,11 +10,13 @@
   </a>
 </div>
 
+<br>
+
 <img align="right" src="https://github.com/enVId-tech/enVId-tech/assets/92957880/a183d5b4-7a22-4f3b-8089-dd09388d6d44">
 
 <div align="left">
   <h2 align="center">Background</h2>
-  <hr>
+  
   I am a high school student in Oxford Academy, Cypress, CA
 
   -   Self taught developer, 3 years
@@ -27,23 +29,26 @@
 
   -   Use React/NextJS, NodeJS
 </div>
-<br>
-<h2 align="center">
-  <strong>Languages, Frameworks, Supplementary Tools</strong>
-</h2>
+
+<br><br><br>
+
 <p align="center">
+  <h2 align="center">
+    <strong>Languages, Frameworks, Supplementary Tools</strong>
+  </h2>
+  
   <a href="https://skillicons.dev" align="center">
     <img align="center" src="https://skillicons.dev/icons?i=bash,cpp,cs,css,discord,express,firebase,flask,git,github,html,java,js,ts,lua,mongodb,nextjs,pr,py,pytorch,react,replit,sass,stackoverflow,tensorflow,unity,vscode" />
   </a>
 </p>
 
-# Socials
-[Youtube](https://www.youtube.com/@enVIdGaming)
+<br>
 
-[Instagram](https://www.instagram.com/envidtech/)
-
-# Previous Projects
 <div align="center">
+  <h2 align="center">
+    <strong>Previous Projects</strong>
+  </h2>
+  
   <span align="center">
     <a href="https://github.com/enVId-tech/Safety-Test" target="_blank">
       <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=Safety-Test" width="45%" alt="Safety Test"/>
@@ -52,14 +57,7 @@
       <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=Scouting-Website" width="45%" alt="Scouting Website"/>
     </a>
   </span>
-  <span align="center">
-    <a href="https://github.com/enVId-tech/OA-Code-Club-Homepage" target="_blank">
-      <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=OA-Code-Club-Homepage" width="45%" alt="OA Code Club Home Page"/>
-    </a>
-    <a href="https://github.com/enVId-tech/Classroom-Website" target="_blank">
-      <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=Classroom-Website" width="45%" alt="Classroom Website"/>
-    </a>
-  </span>
+  
   <span align="center">
     <a href="https://github.com/enVId-tech/Schedules" target="_blank">
       <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=Schedules" width="45%" alt="School Schedules Website"/>
@@ -68,20 +66,52 @@
       <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=OA-Website" width="45%" alt="Oxford Academy Website"/>
     </a>
   </span>
-  <a href="https://github.com/enVId-tech/MecanumDriveArduino" target="_blank">
-    <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=MecanumDriveArduino" width="45%" alt="Arduino Mechanum Drive Design"/>
-  </a>
+  
+  <span align="center">
+    <a href="https://github.com/enVId-tech/JS-Discord-API" target="_blank">
+      <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=JS-Discord-API" width="45%" alt="JS Discord API"/>
+    </a>
+    <a href="https://github.com/enVId-tech/First-Compiler" target="_blank">
+      <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=First-Compiler" width="45%" alt="First Compiler"/>
+    </a>
+  </span>
+  
+  <span align="center">
+    <a href="https://github.com/enVId-tech/Classroom-Website" target="_blank">
+      <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=Classroom-Website" width="45%" alt="Classroom Website"/>
+    </a>
+    <a href="https://github.com/enVId-tech/OA-Code-Club-Homepage" target="_blank">
+      <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=OA-Code-Club-Homepage" width="45%" alt="OA Code Club Home Page"/>
+    </a>
+  </span>
+  
+  <span align="center">
+    <a href="https://github.com/enVId-tech/MecanumDriveArduino" target="_blank">
+      <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=MecanumDriveArduino" width="45%" alt="Arduino Mechanum Drive Design"/>
+    </a>
+  </span>
 </div>
 
-# Current Projects
 <div align="center">
+  <h2 align="center">
+    <strong>Current Projects</strong>
+  </h2>
   <a href="https://github.com/enVId-tech/Voice-Recognition-AI" target="_blank">
     <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=Voice-Recognition-AI" width="49%" alt="AI Voice to Text Translator"/>
   </a>
 </div>
+
 <div align="center">
-  <h2 width="100%" align="center">Statstics</h2>
+  <h2 width="100%" align="center">
+    <strong>Statistics</strong>
+  </h2>
+  
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=enVId_Tech">
-  <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/top-langs/?username=enVId-tech&layout=donut-vertical&langs_count=32&exclude_repo=ReadmeLang">
+  
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=enVId_Tech" align="left">
+  <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/top-langs/?username=enVId-tech&layout=donut-vertical&langs_count=32&exclude_repo=ReadmeLang" align="right">
+</div>
+
+<div align="center">
+
 </div>
