@@ -1,14 +1,10 @@
-<link rel="stylesheet" type="text/css" href="assets/main.css">
-
 <div align="center">
   <a href="https://github.com/enVId-tech" width="100%">
     <img align="center" src="https://readme-typing-svg.demolab.com?font=Inconsolata&duration=1500&pause=1500&color=00E1F7&random=false&width=435&lines=Hi+all!+I'm+Erick%2C+welcome+to+my+profile." alt="Hi all! I'm Erick, welcome to my profile." />
   </a>
 </div>
 
-<div class="card" align="center">
-    <div class="card-content">Full stack software developer, engineer</div>
-</div>
+<h1>Full stack software developer, engineer</h1>
 
 ![ProfilePicture](https://github.com/enVId-tech/enVId-tech/assets/92957880/a183d5b4-7a22-4f3b-8089-dd09388d6d44)
 
@@ -26,26 +22,6 @@ Studying computer science in school, as well as self-studying at home.
 
 Currently studying Python and AI development.
 
-# Socials
-[Youtube](https://www.youtube.com/@enVIdGaming)
-
-[Instagram](https://www.instagram.com/envidtech/)
-
-# Previous Projects
-[Safety Test](https://github.com/enVId-tech/Safety-Test)
-
-[Scouting Website](https://github.com/enVId-tech/Scouting-Website)
-
-[OA Code Club Home Page](https://github.com/enVId-tech/OA-Code-Club-Homepage)
-
-[Classroom Website](https://github.com/enVId-tech/Mr-Wai-s-Website)
-
-[School Schedules Website](https://github.com/enVId-tech/Schedules)
-
-[Oxford Academy Website](https://github.com/enVId-tech/OA-Website)
-
-[Arduino Mechanum Drive Design](https://github.com/enVId-tech/MecanumDriveArduino)
-
 <h2 align="center">
   <strong>Languages, Frameworks, Supplementary Tools</strong>
 </h2>
@@ -55,11 +31,40 @@ Currently studying Python and AI development.
   </a>
 </p>
 
+# Socials
+[Youtube](https://www.youtube.com/@enVIdGaming)
+
+[Instagram](https://www.instagram.com/envidtech/)
+
+# Previous Projects
+
+<a href="https://github.com/enVId-tech/Safety-Test" target="_blank">
+  <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=Safety-Test" width="49%" alt="Safety Test"/>
+</a>
+<a href="https://github.com/enVId-tech/Scouting-Website" target="_blank">
+  <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=Scouting-Website" width="49%" alt="Scouting Website"/>
+</a>
+<a href="https://github.com/enVId-tech/OA-Code-Club-Homepage" target="_blank">
+  <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=OA-Code-Club-Homepage" width="49%" alt="OA Code Club Home Page"/>
+</a>
+<a href="https://github.com/enVId-tech/Classroom-Website" target="_blank">
+  <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=Classroom-Website" width="49%" alt="Classroom Website"/>
+</a>
+<a href="https://github.com/enVId-tech/Schedules" target="_blank">
+  <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=Schedules" width="49%" alt="School Schedules Website"/>
+</a>
+<a href="https://github.com/enVId-tech/OA-Website" target="_blank">
+  <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=OA-Website" width="49%" alt="Oxford Academy Website"/>
+</a>
+<a href="https://github.com/enVId-tech/MecanumDriveArduino" target="_blank">
+  <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=MecanumDriveArduino" width="49%" alt="Arduino Mechanum Drive Design"/>
+</a>
+
 # Current Projects
 
-[AI Voice to Text Translator](https://github.com/enVId-tech/Voice-Recognition-AI)
-
-[Oxford Academy Instrumental Music Website](https://github.com/enVId-tech/OAIM-Website)
+<a href="https://github.com/enVId-tech/Voice-Recognition-AI" target="_blank">
+  <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=Voice-Recognition-AI" width="49%" alt="AI Voice to Text Translator"/>
+</a>
 
 # Languages Used
 [![Top Langs](https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/top-langs/?username=enVId-tech&layout=donut-vertical&langs_count=32&exclude_repo=ReadmeLang)](https://github.com/enVId-tech/enVId-tech)
