@@ -1,4 +1,4 @@
-<img src="./assets/cyberpunk-gif.gif" width="100%" height="300px">
+<img src="./assets/cyberpunk-gif.gif" width="100%" height="350px">
 
 <div align="center">
   <a href="https://github.com/enVId-tech" width="100%">
@@ -12,20 +12,22 @@
 
 <img align="right" src="https://github.com/enVId-tech/enVId-tech/assets/92957880/a183d5b4-7a22-4f3b-8089-dd09388d6d44">
 
-# Background
+<div align="left">
+  <h2 align="center">Background</h2>
+  <hr>
+  I am a high school student in Oxford Academy, Cypress, CA
 
-I am a high school student at Oxford Academy.
+  -   Self taught developer, 3 years
 
-Working as a software developer in [Oxford Academy Robotics](https://frc4079.org/) and [OA STEM](https://github.com/OASTEM)
+  -   Software developer in [Oxford Academy Robotics](https://frc4079.org/) and [OA STEM](https://github.com/OASTEM)
 
-I love computer science as a hobby, and plan to major in it in post-secondary school.
-I have 3 years of self study on programming, particularly website development.
-I primarily use the MERN stack, however I have worked with Angular, Ionic, and React Native
+  -   Currently studying Python and AI development.
 
-Studying computer science in school, as well as self-studying at home.
+  -   Primarily Website developer, primarily MERN stack
 
-Currently studying Python and AI development.
-
+  -   Use React/NextJS, NodeJS
+</div>
+<br>
 <h2 align="center">
   <strong>Languages, Frameworks, Supplementary Tools</strong>
 </h2>
@@ -77,9 +79,9 @@ Currently studying Python and AI development.
     <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=Voice-Recognition-AI" width="49%" alt="AI Voice to Text Translator"/>
   </a>
 </div>
-
-# Languages Used
-[![Top Langs](https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/top-langs/?username=enVId-tech&layout=donut-vertical&langs_count=32&exclude_repo=ReadmeLang)](https://github.com/enVId-tech/enVId-tech)
-
-# Amount of time spent on languages
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=enVId_Tech)](https://github.com/enVId-tech/enVId-tech)
+<div align="center">
+  <h2 width="100%" align="center">Statstics</h2>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=enVId_Tech">
+  <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/top-langs/?username=enVId-tech&layout=donut-vertical&langs_count=32&exclude_repo=ReadmeLang">
+</div>
