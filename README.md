@@ -1,9 +1,14 @@
+<link rel="stylesheet" type="text/css" href="assets/main.css">
+
 <div align="center">
   <a href="https://github.com/enVId-tech" width="100%">
     <img align="center" src="https://readme-typing-svg.demolab.com?font=Inconsolata&duration=1500&pause=1500&color=00E1F7&random=false&width=435&lines=Hi+all!+I'm+Erick%2C+welcome+to+my+profile." alt="Hi all! I'm Erick, welcome to my profile." />
   </a>
 </div>
-**I am a full stack software developer and engineer**
+
+<div class="card" align="center">
+    <div class="card-content">Full stack software developer, engineer</div>
+</div>
 
 ![ProfilePicture](https://github.com/enVId-tech/enVId-tech/assets/92957880/a183d5b4-7a22-4f3b-8089-dd09388d6d44)
 
