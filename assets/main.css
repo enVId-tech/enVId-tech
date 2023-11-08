@@ -1,0 +1,61 @@
+/* card-style.css */
+.card {
+    --card-height: 80px;
+    --card-width: 500px;
+    --card-radius: 10px;
+    --border-width: 9px;
+    --border-fill: 55px;
+    --border-height: 706px;
+
+    --card-color: #000000;
+
+    position: relative;
+    height: var(--card-height);
+    width: var(--card-width);
+    background: var(--card-color);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    z-index: 1;
+    border-radius: var(--card-radius);
+}
+
+.card::before {
+    content: "";
+    height: var(--border-height);
+    width: var(--border-fill);
+    background: linear-gradient(90deg, red, blue);
+    position: absolute;
+    z-index: 2;
+    animation: rotate 3.5s linear infinite;
+}
+
+@keyframes rotate {
+    from {
+        transform: rotateZ(1deg);
+    }
+
+    to {
+        transform: rotateZ(360deg);
+    }
+}
+
+.card::after {
+    content: "";
+    height: calc(var(--card-height) - var(--border-width));
+    width: calc(var(--card-width) - var(--border-width));
+    background: var(--card-color);
+    position: absolute;
+    z-index: 2;
+    border-radius: var(--card-radius);
+}
+
+.card-content {
+    z-index: 3;
+    font-size: 16px;
+    font-family: system-ui;
+    font-weight: bold;
+    color: white;
+    position: absolute;
+}
