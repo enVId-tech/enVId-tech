@@ -1,6 +1,8 @@
+<img src="./assets/cyberpunk-gif.gif">
+
 <div align="center">
   <a href="https://github.com/enVId-tech" width="100%">
-    <img align="center" src="https://readme-typing-svg.demolab.com?font=Inconsolata&duration=1500&pause=1500&color=00E1F7&random=false&width=435&lines=Hi+all!+I'm+Erick%2C+welcome+to+my+profile." alt="Hi all! I'm Erick, welcome to my profile." />
+    <img align="center" src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=38&duration=1500&pause=1500&color=00E1F7&random=false&width=800&lines=Hi+all!+I'm+Erick%2C+welcome+to+my+profile." alt="Hi all! I'm Erick, welcome to my profile." />
   </a>
 </div>
 
