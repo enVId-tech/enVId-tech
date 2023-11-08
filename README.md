@@ -51,46 +51,46 @@
   
   <span align="center">
     <a href="https://github.com/enVId-tech/Safety-Test" target="_blank">
-      <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=Safety-Test" width="45%" alt="Safety Test"/>
+      <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=Safety-Test&theme=dark" width="45%" alt="Safety Test"/>
     </a>
     <a href="https://github.com/enVId-tech/Scouting-Website" target="_blank">
-      <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=Scouting-Website" width="45%" alt="Scouting Website"/>
+      <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=Scouting-Website&theme=dark" width="45%" alt="Scouting Website"/>
     </a>
   </span>
   
   <span align="center">
     <a href="https://github.com/enVId-tech/Schedules" target="_blank">
-      <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=Schedules" width="45%" alt="School Schedules Website"/>
+      <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=Schedules&theme=dark" width="45%" alt="School Schedules Website"/>
     </a>
     <a href="https://github.com/enVId-tech/OA-Website" target="_blank">
-      <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=OA-Website" width="45%" alt="Oxford Academy Website"/>
+      <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=OA-Website&theme=dark" width="45%" alt="Oxford Academy Website"/>
     </a>
   </span>
   
   <span align="center">
     <a href="https://github.com/enVId-tech/JS-Discord-API" target="_blank">
-      <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=JS-Discord-API" width="45%" alt="JS Discord API"/>
+      <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=JS-Discord-API&theme=dark" width="45%" alt="JS Discord API"/>
     </a>
     <a href="https://github.com/enVId-tech/First-Compiler" target="_blank">
-      <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=First-Compiler" width="45%" alt="First Compiler"/>
+      <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=First-Compiler&theme=dark" width="45%" alt="First Compiler"/>
     </a>
   </span>
   
   <span align="center">
     <a href="https://github.com/enVId-tech/Classroom-Website" target="_blank">
-      <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=Classroom-Website" width="45%" alt="Classroom Website"/>
+      <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=Classroom-Website&theme=dark" width="45%" alt="Classroom Website"/>
     </a>
     <a href="https://github.com/enVId-tech/OA-Code-Club-Homepage" target="_blank">
-      <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=OA-Code-Club-Homepage" width="45%" alt="OA Code Club Home Page"/>
+      <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=OA-Code-Club-Homepage&theme=dark" width="45%" alt="OA Code Club Home Page"/>
     </a>
   </span>
   
   <span align="center">
     <a href="https://github.com/enVId-tech/MecanumDriveArduino" target="_blank">
-      <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=MecanumDriveArduino" width="45%" alt="Arduino Mechanum Drive Design"/>
+      <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=MecanumDriveArduino&theme=dark" width="45%" alt="Arduino Mechanum Drive Design"/>
     </a>
     <a href="https://github.com/enVId-tech/Roblox-Game-Exports" target="_blank">
-      <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=Roblox-Game-Exports" width="45%" alt="Roblox Game Exports"/>
+      <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=Roblox-Game-Exports&theme=dark" width="45%" alt="Roblox Game Exports"/>
     </a>
   </span>
 </div>
@@ -100,19 +100,25 @@
     <strong>Current Projects</strong>
   </h2>
   <a href="https://github.com/enVId-tech/Voice-Recognition-AI" target="_blank">
-    <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=Voice-Recognition-AI" width="49%" alt="AI Voice to Text Translator"/>
+    <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=Voice-Recognition-AI&theme=dark" width="49%" alt="AI Voice to Text Translator"/>
   </a>
 </div>
 
 <div align="center">
-  <h2 width="100%" align="center">
-    <strong>Statistics</strong>
-  </h2>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+    <h3 align="center">Statistics</h3>
   
   <br>
   
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=enVId_Tech" align="left">
-  <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/top-langs/?username=enVId-tech&layout=donut-vertical&langs_count=32&exclude_repo=ReadmeLang" align="right">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=enVId_Tech&theme=dark" align="left">
+  <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.appapi/top-langs/?username=enVId-tech&langs_count=64&theme=2077" alt=enVId-tech align="right">
+
+  <br>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=enVId-tech&theme=2077" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=enVId-tech&theme=2077&langs_count=64" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=enVId-tech&theme=2077&langs_count=64" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=enVId-tech&theme=2077" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enVId-tech&theme=2077" height="180em" align="right" />
 </div>
 
 <div align="center">
