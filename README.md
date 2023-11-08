@@ -1,14 +1,16 @@
-<img src="./assets/cyberpunk-gif.gif">
+<img src="./assets/cyberpunk-gif.gif" width="100%" height="400px">
 
 <div align="center">
   <a href="https://github.com/enVId-tech" width="100%">
-    <img align="center" src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=38&duration=1500&pause=1500&color=00E1F7&random=false&width=800&lines=Hi+all!+I'm+Erick%2C+welcome+to+my+profile." alt="Hi all! I'm Erick, welcome to my profile." />
+    <img align="center" src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=38&duration=1500&pause=1500&center=true&vCenter=true&color=00E1F7&random=false&width=800&lines=Hi+all!+I'm+Erick%2C+welcome+to+my+profile." alt="Hi all! I'm Erick, welcome to my profile." />
+  </a>
+
+  <a href="https://github.com/enVId-tech" width="100%">
+    <img align="center" src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=38&duration=1500&pause=1500&center=true&vCenter=true&color=00E1F7&random=false&width=800&lines=Full+Stack+Software+Developer,+Engineer" alt="Hi all! I'm Erick, welcome to my profile." />
   </a>
 </div>
 
-<h1>Full stack software developer, engineer</h1>
-
-![ProfilePicture](https://github.com/enVId-tech/enVId-tech/assets/92957880/a183d5b4-7a22-4f3b-8089-dd09388d6d44)
+<img align="right" src="https://github.com/enVId-tech/enVId-tech/assets/92957880/a183d5b4-7a22-4f3b-8089-dd09388d6d44">
 
 # Background
 
