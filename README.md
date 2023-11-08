@@ -37,34 +37,42 @@ Currently studying Python and AI development.
 [Instagram](https://www.instagram.com/envidtech/)
 
 # Previous Projects
-
-<a href="https://github.com/enVId-tech/Safety-Test" target="_blank">
-  <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=Safety-Test" width="49%" alt="Safety Test"/>
-</a>
-<a href="https://github.com/enVId-tech/Scouting-Website" target="_blank">
-  <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=Scouting-Website" width="49%" alt="Scouting Website"/>
-</a>
-<a href="https://github.com/enVId-tech/OA-Code-Club-Homepage" target="_blank">
-  <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=OA-Code-Club-Homepage" width="49%" alt="OA Code Club Home Page"/>
-</a>
-<a href="https://github.com/enVId-tech/Classroom-Website" target="_blank">
-  <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=Classroom-Website" width="49%" alt="Classroom Website"/>
-</a>
-<a href="https://github.com/enVId-tech/Schedules" target="_blank">
-  <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=Schedules" width="49%" alt="School Schedules Website"/>
-</a>
-<a href="https://github.com/enVId-tech/OA-Website" target="_blank">
-  <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=OA-Website" width="49%" alt="Oxford Academy Website"/>
-</a>
-<a href="https://github.com/enVId-tech/MecanumDriveArduino" target="_blank">
-  <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=MecanumDriveArduino" width="49%" alt="Arduino Mechanum Drive Design"/>
-</a>
+<div align="center">
+  <span align="center">
+    <a href="https://github.com/enVId-tech/Safety-Test" target="_blank">
+      <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=Safety-Test" width="45%" alt="Safety Test"/>
+    </a>
+    <a href="https://github.com/enVId-tech/Scouting-Website" target="_blank">
+      <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=Scouting-Website" width="45%" alt="Scouting Website"/>
+    </a>
+  </span>
+  <span align="center">
+    <a href="https://github.com/enVId-tech/OA-Code-Club-Homepage" target="_blank">
+      <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=OA-Code-Club-Homepage" width="45%" alt="OA Code Club Home Page"/>
+    </a>
+    <a href="https://github.com/enVId-tech/Classroom-Website" target="_blank">
+      <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=Classroom-Website" width="45%" alt="Classroom Website"/>
+    </a>
+  </span>
+  <span align="center">
+    <a href="https://github.com/enVId-tech/Schedules" target="_blank">
+      <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=Schedules" width="45%" alt="School Schedules Website"/>
+    </a>
+    <a href="https://github.com/enVId-tech/OA-Website" target="_blank">
+      <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=OA-Website" width="45%" alt="Oxford Academy Website"/>
+    </a>
+  </span>
+  <a href="https://github.com/enVId-tech/MecanumDriveArduino" target="_blank">
+    <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=MecanumDriveArduino" width="45%" alt="Arduino Mechanum Drive Design"/>
+  </a>
+</div>
 
 # Current Projects
-
-<a href="https://github.com/enVId-tech/Voice-Recognition-AI" target="_blank">
-  <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=Voice-Recognition-AI" width="49%" alt="AI Voice to Text Translator"/>
-</a>
+<div align="center">
+  <a href="https://github.com/enVId-tech/Voice-Recognition-AI" target="_blank">
+    <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=Voice-Recognition-AI" width="49%" alt="AI Voice to Text Translator"/>
+  </a>
+</div>
 
 # Languages Used
 [![Top Langs](https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/top-langs/?username=enVId-tech&layout=donut-vertical&langs_count=32&exclude_repo=ReadmeLang)](https://github.com/enVId-tech/enVId-tech)
