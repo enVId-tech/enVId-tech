@@ -1,6 +1,8 @@
-# Hi all! I'm Erick.
-Also known online as [enVId Tech](https://github.com/enVId-tech)
-
+<div align="center">
+  <a href="https://github.com/enVId-tech" width="100%">
+    <img align="center" src="https://readme-typing-svg.demolab.com?font=Inconsolata&duration=1500&pause=1500&color=00E1F7&random=false&width=435&lines=Hi+all!+I'm+Erick%2C+welcome+to+my+profile." alt="Hi all! I'm Erick, welcome to my profile." />
+  </a>
+</div>
 **I am a full stack software developer and engineer**
 
 ![ProfilePicture](https://github.com/enVId-tech/enVId-tech/assets/92957880/a183d5b4-7a22-4f3b-8089-dd09388d6d44)
@@ -38,6 +40,15 @@ Currently studying Python and AI development.
 [Oxford Academy Website](https://github.com/enVId-tech/OA-Website)
 
 [Arduino Mechanum Drive Design](https://github.com/enVId-tech/MecanumDriveArduino)
+
+<h2 align="center">
+  <strong>Languages, Frameworks, Supplementary Tools</strong>
+</h2>
+<p align="center">
+  <a href="https://skillicons.dev" align="center">
+    <img align="center" src="https://skillicons.dev/icons?i=bash,cpp,cs,css,discord,express,firebase,flask,git,github,html,java,js,ts,lua,mongodb,nextjs,pr,py,pytorch,react,replit,sass,stackoverflow,tensorflow,unity,vscode" />
+  </a>
+</p>
 
 # Current Projects
 
