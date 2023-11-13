@@ -110,10 +110,10 @@
   
   <br>
   
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=enVId_Tech&theme=dark" align="left">
-  <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.appapi/top-langs/?username=enVId-tech&langs_count=64&theme=2077" alt=enVId-tech align="right">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=enVId_Tech&theme=radical" align="left">
+  <img align="center" src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/top-langs/?username=enVId-tech&langs_count=64&exclude_repo=ReadmeLang&theme=radical" />
 
-  <br>
+  <br><br>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=enVId-tech&theme=2077" height="180em" />
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=enVId-tech&theme=2077&langs_count=64" height="180em" />
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=enVId-tech&theme=2077&langs_count=64" height="180em" />
