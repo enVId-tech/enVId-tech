@@ -102,6 +102,9 @@
   <a href="https://github.com/enVId-tech/Voice-Recognition-AI" target="_blank">
     <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=Voice-Recognition-AI&theme=dark" width="49%" alt="AI Voice to Text Translator"/>
   </a>
+    <a href="https://github.com/enVId-tech/Portfolio-Website" target="_blank">
+    <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=Portfolio-Website&theme=dark" width="49%" alt="My Portfolio Website"/>
+  </a>
 </div>
 
 <div align="center">
