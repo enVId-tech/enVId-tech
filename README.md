@@ -86,8 +86,8 @@
   </span>
   
   <span align="center">
-    <a href="https://github.com/enVId-tech/MecanumDriveArduino" target="_blank">
-      <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=MecanumDriveArduino&theme=dark" width="45%" alt="Arduino Mechanum Drive Design"/>
+    <a href="https://github.com/enVId-tech/Voice-Recognition-AI" target="_blank">
+      <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=Voice-Recognition-AI&theme=dark" width="49%" alt="AI Voice to Text Translator"/>
     </a>
     <a href="https://github.com/enVId-tech/Roblox-Game-Exports" target="_blank">
       <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=Roblox-Game-Exports&theme=dark" width="45%" alt="Roblox Game Exports"/>
@@ -99,11 +99,14 @@
   <h2 align="center">
     <strong>Current Projects</strong>
   </h2>
-  <a href="https://github.com/enVId-tech/Voice-Recognition-AI" target="_blank">
-    <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=Voice-Recognition-AI&theme=dark" width="49%" alt="AI Voice to Text Translator"/>
+  <a href="https://github.com/enVId-tech/Mecanum-Drive-Arduino" target="_blank">
+    <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=Mecanum-Drive-Arduino&theme=dark" width="45%" alt="Arduino Mechanum Drive Code"/>
   </a>
-    <a href="https://github.com/enVId-tech/Portfolio-Website" target="_blank">
+  <a href="https://github.com/enVId-tech/Portfolio-Website" target="_blank">
     <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=Portfolio-Website&theme=dark" width="49%" alt="My Portfolio Website"/>
+  </a>
+  <a href="https://github.com/enVId-tech/OpenCV-Object-Detection" target="_blank">
+    <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=OpenCV-Object-Detection&theme=dark" width="49%" alt="OpenCV Object Detection"/>
   </a>
 </div>
 
