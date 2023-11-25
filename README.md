@@ -23,7 +23,7 @@
 
   -   Software developer in [Oxford Academy Robotics](https://frc4079.org/) and [OA STEM](https://github.com/OASTEM)
 
-  -   Currently studying Python and AI development.
+  -   Currently studying C++ and CV
 
   -   Primarily Website developer, primarily MERN stack
 
