@@ -23,9 +23,9 @@
 
   -   Software developer in [Oxford Academy Robotics](https://frc4079.org/) and [OA STEM](https://github.com/OASTEM)
 
-  -   Currently studying C++ and CV
+  -   Currently studying Harvard CS50x
 
-  -   Primarily Website developer, primarily MERN stack
+  -   Primarily a Website developer, primarily MERN stack
 
   -   Use React/NextJS, NodeJS
 </div>
