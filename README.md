@@ -19,15 +19,15 @@
   
   I am a high school student in Oxford Academy, Cypress, CA
 
-  -   Self taught developer, 3 years
+  -   Self taught developer, 4 years
 
   -   Software developer in [Oxford Academy Robotics](https://frc4079.org/) and [OA STEM](https://github.com/OASTEM)
 
-  -   Currently studying Harvard CS50x
+  -   Currently creating hobby projects
 
-  -   Primarily a Website developer, primarily MERN stack
+  -   Website developer, primarily MERN stack
 
-  -   Use React/NextJS, NodeJS
+  -   I use NodeJS/ReactJS/NextJS and the TS equivalents
 </div>
 
 <br><br><br>
@@ -129,7 +129,4 @@
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=enVId-tech&theme=2077" height="180em" />
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enVId-tech&theme=2077" height="180em" align="right" />
 </div>
-
-<div align="center">
-
 </div>
