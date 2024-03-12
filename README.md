@@ -106,6 +106,15 @@
 
 <div align="center">
   <h2 align="center">
+    <strong>Contributing Projects</strong>
+  </h2>
+  <a href="https://github.com/OASTEM/Crescendo2024" target="_blank">
+    <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=OASTEM&repo=Crescendo2024&theme=dark" width="45%" alt="Crescendo 2024"/>
+  </a>
+</div>
+
+<div align="center">
+  <h2 align="center">
     <strong>Current Projects</strong>
   </h2>
   <a href="https://github.com/enVId-tech/OA-Website" target="_blank">
