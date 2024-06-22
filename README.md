@@ -142,6 +142,9 @@
     <a href="https://github.com/enVId-tech/Robotics-Website" target="_blank">
       <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=Robotics-Website&theme=dark" width="45%" alt="Robotics Website"/>
     </a>
+    <a href="https://github.com/OASTEM/robotics-management-web" target="_blank">
+      <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=OASTEM&repo=robotics-management-web&theme=dark" width="45%" alt="Robotics Management Web"/>
+    </a>
   </span>
 </div>
 
