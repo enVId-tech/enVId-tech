@@ -132,6 +132,9 @@
   <a href="https://github.com/OASTEM/SwerveBase2024" target="_blank">
     <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=OASTEM&repo=SwerveBase2024&theme=dark" width="45%" alt="Swerve Base 2024"/>
   </a>
+  <a href="https://github.com/enVId-tech/Athenas-nom-nom" target="_blank">
+    <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=Athenas-nom-nom&theme=dark" width="45%" alt="Athena's Org Project"/>
+  </a>
 </div>
 
 <div align="center">
