@@ -77,45 +77,51 @@
   </span>
   
   <span align="center">
+    <a href="https://github.com/enVId-tech/Calendar-App" target="_blank">
+      <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=Calendar-App&theme=dark" width="45%" alt="Calendar App"/>
+    </a>
     <a href="https://github.com/enVId-tech/JS-Discord-API" target="_blank">
       <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=JS-Discord-API&theme=dark" width="45%" alt="JS Discord API"/>
-    </a>
-    <a href="https://github.com/enVId-tech/First-Compiler" target="_blank">
-      <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=First-Compiler&theme=dark" width="45%" alt="First Compiler"/>
     </a>
   </span>
   
   <span align="center">
+    <a href="https://github.com/enVId-tech/First-Compiler" target="_blank">
+      <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=First-Compiler&theme=dark" width="45%" alt="First Compiler"/>
+    </a>
     <a href="https://github.com/enVId-tech/Classroom-Website" target="_blank">
       <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=Classroom-Website&theme=dark" width="45%" alt="Classroom Website"/>
     </a>
+  </span>
+
+  <span align="center">
     <a href="https://github.com/enVId-tech/OA-Code-Club-Homepage" target="_blank">
       <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=OA-Code-Club-Homepage&theme=dark" width="45%" alt="OA Code Club Home Page"/>
     </a>
-  </span>
-
-  <span align="center">
     <a href="https://github.com/enVId-tech/Voice-Recognition-AI" target="_blank">
       <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=Voice-Recognition-AI&theme=dark" width="45%" alt="AI Voice to Text Translator"/>
     </a>
+  </span>
+
+  <span align="center">
     <a href="https://github.com/enVId-tech/Youtube-File-Storage" target="_blank">
       <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=Youtube-File-Storage&theme=dark" width="45%" alt="Youtube File Storage"/>
     </a>
-  </span>
-
-  <span align="center">
     <a href="https://github.com/enVId-tech/CSV-Convert-From-DB" target="_blank">
       <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=CSV-Convert-From-DB&theme=dark" width="45%" alt="CSV Convert From DB"/>
     </a>
-    <a href="https://github.com/enVId-tech/OpenCV-Object-Detection" target="_blank">
+  </span>
+
+  <span align="center">
+        <a href="https://github.com/enVId-tech/OpenCV-Object-Detection" target="_blank">
       <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=OpenCV-Object-Detection&theme=dark" width="45%" alt="OpenCV Object Detection - On hold"/>
+    </a>
+    <a href="https://github.com/enVId-tech/Mecanum-Drive-Arduino" target="_blank">
+      <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=Mecanum-Drive-Arduino&theme=dark" width="45%" alt="Arduino Mechanum Drive Code - On hold"/>
     </a>
   </span>
 
   <span align="center">
-    <a href="https://github.com/enVId-tech/Mecanum-Drive-Arduino" target="_blank">
-      <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=Mecanum-Drive-Arduino&theme=dark" width="45%" alt="Arduino Mechanum Drive Code - On hold"/>
-    </a>
     <a href="https://github.com/enVId-tech/Roblox-Game-Exports" target="_blank">
       <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=Roblox-Game-Exports&theme=dark" width="45%" alt="Roblox Game Exports"/>
     </a>
@@ -147,11 +153,6 @@
     </a>
     <a href="https://github.com/OASTEM/robotics-management-web" target="_blank">
       <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=OASTEM&repo=robotics-management-web&theme=dark" width="45%" alt="Robotics Management Web"/>
-    </a>
-  </span>
-  <span>
-    <a href="https://github.com/enVId-tech/Calendar-App" target="_blank">
-      <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=Calendar-App&theme=dark" width="45%" alt="Calendar App"/>
     </a>
   </span>
 </div>
