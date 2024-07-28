@@ -168,7 +168,7 @@
   
   <br>
   
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=enVId_Tech&theme=radical" align="left">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=envidtech&theme=radical" align="left">
   <img align="center" src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/top-langs/?username=enVId-tech&langs_count=128&exclude_repo=ReadmeLang&theme=radical" />
 
   <br><br>
