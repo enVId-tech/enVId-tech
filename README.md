@@ -75,10 +75,19 @@
       <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=TSModules&theme=dark" width="45%" alt="TypeScript Modules"/>
     </a>
   </span>
-  
+
   <span align="center">
+    <a href="https://github.com/enVId-tech/Website-Login-Template" target="_blank">
+      <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=Website-Login-Template&theme=dark" width="45%" alt="Website-Login-Template"/>
+    </a>
     <a href="https://github.com/enVId-tech/Calendar-App" target="_blank">
       <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=Calendar-App&theme=dark" width="45%" alt="Calendar App"/>
+    </a>
+  </span>
+  
+  <span align="center">
+    <a href="https://github.com/enVId-tech/Robotics-Website" target="_blank">
+      <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=Robotics-Website&theme=dark" width="45%" alt="Robotics Website"/>
     </a>
     <a href="https://github.com/enVId-tech/JS-Discord-API" target="_blank">
       <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=JS-Discord-API&theme=dark" width="45%" alt="JS Discord API"/>
@@ -148,17 +157,12 @@
     <strong>Current Projects</strong>
   </h2>
   <span align="center">
-    <a href="https://github.com/enVId-tech/Robotics-Website" target="_blank">
-      <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=Robotics-Website&theme=dark" width="45%" alt="Robotics Website"/>
-    </a>
     <a href="https://github.com/OASTEM/robotics-management-web" target="_blank">
       <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=OASTEM&repo=robotics-management-web&theme=dark" width="45%" alt="Robotics Management Web"/>
     </a>
   </span>
   <span align="center">
-    <a href="https://github.com/enVId-tech/Website-Login-Template" target="_blank">
-      <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=Website-Login-Template&theme=dark" width="45%" alt="Website-Login-Template"/>
-    </a>
+
   </span>
 </div>
 
