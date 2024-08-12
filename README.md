@@ -28,6 +28,10 @@
   -   Website developer, primarily MERN stack
 
   -   I use NodeJS/ReactJS/NextJS and the TS equivalents
+
+  Portfolio website available <a href="https://www.etran.dev/" target="_blank" rel="noopener noreferrer">here</a>
+  <br>
+  Want to contact me? Email me at <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=erick.tran@etran.dev" target="_blank" rel="noopener noreferrer">erick.tran@etran.dev</a>
 </div>
 
 <br><br><br>
@@ -147,9 +151,6 @@
   <a href="https://github.com/OASTEM/SwerveBase2024" target="_blank">
     <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=OASTEM&repo=SwerveBase2024&theme=dark" width="45%" alt="Swerve Base 2024"/>
   </a>
-  <a href="https://github.com/enVId-tech/Global-Youth-Scholars-Website" target="_blank">
-    <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=Global-Youth-Scholars-Website&theme=dark" width="45%" alt="Athena's Org Project"/>
-  </a>
 </div>
 
 <div align="center">
@@ -159,6 +160,9 @@
   <span align="center">
     <a href="https://github.com/OASTEM/robotics-management-web" target="_blank">
       <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=OASTEM&repo=robotics-management-web&theme=dark" width="45%" alt="Robotics Management Web"/>
+    </a>
+    <a href="https://github.com/enVId-tech/Global-Youth-Scholars-Website" target="_blank">
+    <img src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/pin/?username=enVId-tech&repo=Global-Youth-Scholars-Website&theme=dark" width="45%" alt="Athena's Org Project"/>
     </a>
   </span>
   <span align="center">
@@ -173,7 +177,7 @@
   <br>
   
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=envidtech&theme=radical" align="left">
-  <img align="center" src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/top-langs/?username=enVId-tech&langs_count=128&exclude_repo=ReadmeLang&theme=radical" />
+  <img align="center" src="https://readme-lang-ef1nz8ms4-envid-tech.vercel.app/api/top-langs/?username=enVId-tech&langs_count=256&exclude_repo=ReadmeLang&theme=radical" />
 
   <br><br>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=enVId-tech&theme=2077" height="180em" />
