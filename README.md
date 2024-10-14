@@ -149,11 +149,11 @@
   <h2 align="center">
     <strong>Contributing Projects</strong>
   </h2>
-  <a href="https://github.com/OASTEM/Crescendo2024" target="_blank">
-    <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=OASTEM&repo=Crescendo2024&theme=dark" width="45%" alt="Crescendo 2024"/>
+  <a href="https://github.com/Team4079/Crescendo2024" target="_blank">
+    <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=Team4079&repo=Crescendo2024&theme=dark" width="45%" alt="Crescendo 2024"/>
   </a>
-  <a href="https://github.com/OASTEM/SwerveBase2024" target="_blank">
-    <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=OASTEM&repo=SwerveBase2024&theme=dark" width="45%" alt="Swerve Base 2024"/>
+  <a href="https://github.com/Team4079/SwerveBase2024" target="_blank">
+    <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=Team4079&repo=SwerveBaseTemplate&theme=dark" width="45%" alt="Swerve Base Template"/>
   </a>
 </div>
 
@@ -162,8 +162,8 @@
     <strong>Current Projects</strong>
   </h2>
   <span align="center">
-    <a href="https://github.com/OASTEM/robotics-management-web" target="_blank">
-      <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=OASTEM&repo=robotics-management-web&theme=dark" width="45%" alt="Robotics Management Web"/>
+    <a href="https://github.com/Team4079/robotics-management-web" target="_blank">
+      <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=Team4079&repo=robotics-management-web&theme=dark" width="45%" alt="Robotics Management Web"/>
     </a>
     <a href="https://github.com/enVId-tech/Global-Youth-Scholars-Website" target="_blank">
     <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=Global-Youth-Scholars-Website&theme=dark" width="45%" alt="Athena's Org Project"/>
