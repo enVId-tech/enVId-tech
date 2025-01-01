@@ -178,7 +178,7 @@
   <a href="https://github.com/Team4079/Crescendo2024" target="_blank">
     <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=Team4079&repo=Crescendo2024&theme=dark" width="45%" alt="Crescendo 2024"/>
   </a>
-  <a href="https://github.com/Team4079/SwerveBase2024" target="_blank">
+  <a href="https://github.com/Team4079/SwerveBaseTemplate" target="_blank">
     <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=Team4079&repo=SwerveBaseTemplate&theme=dark" width="45%" alt="Swerve Base Template"/>
   </a>
 </div>
