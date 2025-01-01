@@ -6,7 +6,7 @@
   </a>
 
   <a href="https://github.com/enVId-tech" width="100%">
-    <img align="center" src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=38&duration=1500&pause=1500&center=true&vCenter=true&color=00E1F7&random=false&width=800&lines=Full+Stack+Software+Developer,+Engineer" alt="Hi all! I'm Erick, welcome to my profile." />
+    <img align="center" src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=38&duration=1500&pause=1500&center=true&vCenter=true&color=00E1F7&random=false&width=800&lines=Full+Stack+Website+Developer,+Engineer" alt="Hi all! I'm Erick, welcome to my profile." />
   </a>
 </div>
 
@@ -17,7 +17,7 @@
 <div align="left">
   <h2 align="center">Background</h2>
   
-  I am a high school student in Oxford Academy, Cypress, CA
+  I am a high school student located in Anaheim, California
 
   -   Self taught developer, 5 years
 
@@ -25,7 +25,7 @@
 
   -   Currently creating hobby projects
 
-  -   Website developer, primarily MERN stack
+  -   Website developer, primarily utilize the MERN stack
 
   -   I use NodeJS/ReactJS/NextJS and the TS equivalents
 
@@ -88,6 +88,15 @@
       <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=Calendar-App&theme=dark" width="45%" alt="Calendar App"/>
     </a>
   </span>
+
+  <span align="center">
+    <a href="https://github.com/enVId-tech/etrandev-link-page" target="_blank">
+      <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=etrandev-link-page&theme=dark" width="45%" alt="etran.dev Link Page"/>
+    </a>
+    <a href="https://github.com/enVId-tech/DB-Reader-Electron-App" target="_blank">
+      <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=DB-Reader-Electron-App&theme=dark" width="45%" alt="DB Reader Electron App"/>
+    </a>
+  </span>
   
   <span align="center">
     <a href="https://github.com/enVId-tech/Coding-Power-Website" target="_blank">
@@ -118,8 +127,17 @@
   </span>
 
   <span align="center">
+    <a href="https://github.com/enVId-tech/Nginx-404" target="_blank">
+      <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=Nginx-404&theme=dark" width="45%" alt="Nginx 404 Page"/>
+    </a>
     <a href="https://github.com/enVId-tech/Voice-Recognition-AI" target="_blank">
       <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=Voice-Recognition-AI&theme=dark" width="45%" alt="AI Voice to Text Translator"/>
+    </a>
+  </span>
+
+  <span align="center">
+    <a href="https://github.com/enVId-tech/PythonDBGenerator" target="_blank">
+      <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=PythonDBGenerator&theme=dark" width="45%" alt="Python Database Generator"/>
     </a>
     <a href="https://github.com/enVId-tech/Youtube-File-Storage" target="_blank">
       <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=Youtube-File-Storage&theme=dark" width="45%" alt="Youtube File Storage"/>
