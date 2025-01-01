@@ -102,9 +102,17 @@
     <a href="https://github.com/enVId-tech/Coding-Power-Website" target="_blank">
       <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=Coding-Power-Website&theme=dark" width="45%" alt="Coding Power Website"/>
     </a>
+    <a href="https://github.com/Team4079/robotics-management-web" target="_blank">
+      <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=Team4079&repo=robotics-management-web&theme=dark" width="45%" alt="Robotics Management Web"/>
     </a>
-    <a href="https://github.com/enVId-tech/Robotics-Website" target="_blank">
-      <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=Robotics-Website&theme=dark" width="45%" alt="Robotics Website"/>
+  </span>
+
+  <span align="center">
+    <a href="https://github.com/enVId-tech/Global-Youth-Scholars-Website" target="_blank">
+      <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=Global-Youth-Scholars-Website&theme=dark" width="45%" alt="Athena's Org Project"/>
+    </a>
+    <a href="https://github.com/enVId-tech/Old-Robotics-Website-Redesign" target="_blank">
+      <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=Old-Robotics-Website-Redesign&theme=dark" width="45%" alt="Old Robotics Website Redesign"/>
     </a>
   </span>
   
@@ -180,15 +188,9 @@
     <strong>Current Projects</strong>
   </h2>
   <span align="center">
-    <a href="https://github.com/Team4079/robotics-management-web" target="_blank">
-      <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=Team4079&repo=robotics-management-web&theme=dark" width="45%" alt="Robotics Management Web"/>
+    <a href="https://github.com/enVId-tech/New-Robotics-Website-Redesign" target="_blank">
+      <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=New-Robotics-Website-Redesign&theme=dark" width="45%" alt="New Robotics Website Redesign"/>
     </a>
-    <a href="https://github.com/enVId-tech/Global-Youth-Scholars-Website" target="_blank">
-    <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=Global-Youth-Scholars-Website&theme=dark" width="45%" alt="Athena's Org Project"/>
-    </a>
-  </span>
-  <span align="center">
-
   </span>
 </div>
 
