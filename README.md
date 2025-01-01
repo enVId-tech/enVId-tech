@@ -90,8 +90,8 @@
   </span>
 
   <span align="center">
-    <a href="https://github.com/enVId-tech/etrandev-link-page" target="_blank">
-      <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=etrandev-link-page&theme=dark" width="45%" alt="etran.dev Link Page"/>
+    <a href="https://github.com/enVId-tech/etran.dev-Link-Page" target="_blank">
+      <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=etran.dev-Link-Page&theme=dark" width="45%" alt="etran.dev Link Page"/>
     </a>
     <a href="https://github.com/enVId-tech/DB-Reader-Electron-App" target="_blank">
       <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=DB-Reader-Electron-App&theme=dark" width="45%" alt="DB Reader Electron App"/>
