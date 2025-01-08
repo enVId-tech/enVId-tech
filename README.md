@@ -192,6 +192,9 @@
       <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=New-Robotics-Website-Redesign&theme=dark" width="45%" alt="New Robotics Website Redesign"/>
     </a>
   </span>
+  <a href="https://github.com/Team4079/Reefscape2025" target="_blank">
+    <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=Team4079&repo=Reefscape2025&theme=dark" width="45%" alt="Reefscape 2025"/>
+  </a>
 </div>
 
 <div align="center">
