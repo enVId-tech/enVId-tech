@@ -17,7 +17,7 @@
 <div align="left">
   <h2 align="center">Background</h2>
   
-  I am a high school student located in Anaheim, California
+  I am a high school student in Anaheim, california
 
   -   Self taught developer, 5 years
 
@@ -25,9 +25,9 @@
 
   -   Currently creating hobby projects
 
-  -   Website developer, primarily utilize the MERN stack
+  -   Website developer and app developer
 
-  -   I use NodeJS/ReactJS/NextJS and the TS equivalents
+  -   I primarily use TypeScript, but also other languages available below
 
   Portfolio website available <a href="https://www.etran.dev/" target="_blank" rel="noopener noreferrer">here</a>
   <br>
