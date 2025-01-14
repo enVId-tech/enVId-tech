@@ -44,7 +44,7 @@
   <p align="center">
     <h3>Web Languages & Frameworks</h3>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,nodejs,express,react,nextjs,electron,threejs" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,nodejs,express,react,nextjs,electron,threejs,angular" />
     </a>
   </p>
 
@@ -58,16 +58,22 @@
   <p>
     <h3>Other commonly used languages</h3>
     <a href="https://skillicons.dev">
-      <img align="center" src="https://skillicons.dev/icons?i=java,python" />
+      <img align="center" src="https://skillicons.dev/icons?i=java,python,bash" />
     </a>
   </p>
 
   <p>
     <h3>Less commonly used languages</h3>
+    <a href="https://skillicons.dev">
+      <img align="center" src="https://skillicons.dev/icons?i=c,cs,cpp,lua,md,powershell,vim,emacs,kotlin" />
+    </a>
   </p>
 
   <p>
     <h3>Used Apps</h3>
+    <a href="https://skillicons.dev">
+      <img align="center" src="https://skillicons.dev/icons?i=ae,arduino,au,aws,blender,cmake,discord,docker,git,github,gmail,gradle,htmx,idea,ai,instagram,maven,nginx,notion,ps,pycharm,pytorch,raspberrypi" />
+    </a>
   </p>
   
 </p>
