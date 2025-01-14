@@ -40,10 +40,36 @@
   <h2 align="center">
     <strong>Languages, Frameworks, Supplementary Tools</strong>
   </h2>
+
+  <p align="center">
+    <h3>Web Languages & Frameworks</h3>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,nodejs,express,react,nextjs,electron,threejs" />
+    </a>
+  </p>
+
+  <p>
+    <h3>Databases & Networking</h3>
+    <a href="https://skillicons.dev">
+      <img align="center" src="https://skillicons.dev/icons?i=mongodb,cloudflare,docker,firebase,github,kubernetes,npm,sqlite" />
+    </a>
+  </p>
+
+  <p>
+    <h3>Other commonly used languages</h3>
+    <a href="https://skillicons.dev">
+      <img align="center" src="https://skillicons.dev/icons?i=java,python" />
+    </a>
+  </p>
+
+  <p>
+    <h3>Less commonly used languages</h3>
+  </p>
+
+  <p>
+    <h3>Used Apps</h3>
+  </p>
   
-  <a href="https://skillicons.dev" align="center">
-    <img align="center" src="https://skillicons.dev/icons?i=bash,cpp,c,cs,css,discord,express,firebase,flask,git,github,html,java,js,ts,lua,mongodb,nextjs,pr,py,pytorch,react,replit,sass,stackoverflow,tensorflow,unity,vscode" />
-  </a>
 </p>
 
 <br>
