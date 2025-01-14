@@ -21,7 +21,7 @@
 
   -   Self taught developer, 5 years
 
-  -   Software developer in [Oxford Academy Robotics](https://frc4079.org/) and [OA STEM](https://github.com/OASTEM)
+  -   Software developer in [Oxford Academy Robotics](https://frc4079.org/) and [FRC Team 4079](https://github.com/Team4079)
 
   -   Currently creating hobby projects
 
