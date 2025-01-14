@@ -72,7 +72,7 @@
   <p>
     <h3>Used Apps</h3>
     <a href="https://skillicons.dev">
-      <img align="center" src="https://skillicons.dev/icons?i=ae,arduino,au,aws,blender,cmake,discord,docker,git,github,gmail,gradle,htmx,idea,ai,instagram,maven,nginx,notion,ps,pycharm,pytorch,raspberrypi" />
+      <img align="center" src="https://skillicons.dev/icons?i=ae,arduino,au,aws,blender,cmake,discord,docker,git,github,gmail,gradle,htmx,idea,ai,instagram,maven,nginx,notion,ps,pycharm,pytorch,raspberrypi,robloxstudio,stackoverflow,sklearn,svg,tensorflow,threejs,ubuntu,vim,visualstudio,vite,vscode,webflow,webpack,webstorm,windows,yarn" />
     </a>
   </p>
   
