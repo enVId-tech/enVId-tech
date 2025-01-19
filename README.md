@@ -17,7 +17,7 @@
 <div align="left">
   <h2 align="center">Background</h2>
   
-  I am a high school student in Anaheim, california
+  I am a high school student in Anaheim, California
 
   -   Self taught developer, 5 years
 
