@@ -92,108 +92,75 @@
     <a href="https://github.com/enVId-tech/Scouting-Website" target="_blank">
       <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=Scouting-Website&theme=dark" width="45%" alt="Scouting Website"/>
     </a>
-  </span>
-  
-  <span align="center">
     <a href="https://github.com/enVId-tech/Schedules" target="_blank">
       <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=Schedules&theme=dark" width="45%" alt="School Schedules Website"/>
     </a>
     <a href="https://github.com/enVId-tech/Portfolio-Website" target="_blank">
       <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=Portfolio-Website&theme=dark" width="45%" alt="My Portfolio Website - On hold"/>
     </a>
-  </span>
-  
-  <span align="center">
     <a href="https://github.com/enVId-tech/OA-Website" target="_blank">
       <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=OA-Website&theme=dark" width="45%" alt="Oxford Academy Website"/>
     </a>
     <a href="https://github.com/enVId-tech/TSModules" target="_blank">
       <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=TSModules&theme=dark" width="45%" alt="TypeScript Modules"/>
     </a>
-  </span>
-
-  <span align="center">
     <a href="https://github.com/enVId-tech/Website-Login-Template" target="_blank">
       <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=Website-Login-Template&theme=dark" width="45%" alt="Website-Login-Template"/>
     </a>
     <a href="https://github.com/enVId-tech/Calendar-App" target="_blank">
       <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=Calendar-App&theme=dark" width="45%" alt="Calendar App"/>
     </a>
-  </span>
-
-  <span align="center">
     <a href="https://github.com/enVId-tech/etran.dev-Link-Page" target="_blank">
       <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=etran.dev-Link-Page&theme=dark" width="45%" alt="etran.dev Link Page"/>
     </a>
     <a href="https://github.com/enVId-tech/DB-Reader-Electron-App" target="_blank">
       <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=DB-Reader-Electron-App&theme=dark" width="45%" alt="DB Reader Electron App"/>
     </a>
-  </span>
-  
-  <span align="center">
+    <a href="https://github.com/enVId-tech/Docker-Web-Creator" target="_blank">
+      <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=Docker-Web-Creator&theme=dark" width="45%" alt="Docker Web Creator"/>
+    </a>
     <a href="https://github.com/enVId-tech/Coding-Power-Website" target="_blank">
       <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=Coding-Power-Website&theme=dark" width="45%" alt="Coding Power Website"/>
     </a>
     <a href="https://github.com/Team4079/robotics-management-web" target="_blank">
       <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=Team4079&repo=robotics-management-web&theme=dark" width="45%" alt="Robotics Management Web"/>
     </a>
-  </span>
-
-  <span align="center">
+    <a href="https://github.com/enVId-tech/Nginx-404" target="_blank">
+      <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=Nginx-404&theme=dark" width="45%" alt="Nginx 404 Page"/>
+    </a>
     <a href="https://github.com/enVId-tech/Global-Youth-Scholars-Website" target="_blank">
       <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=Global-Youth-Scholars-Website&theme=dark" width="45%" alt="Athena's Org Project"/>
     </a>
     <a href="https://github.com/enVId-tech/Old-Robotics-Website-Redesign" target="_blank">
       <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=Old-Robotics-Website-Redesign&theme=dark" width="45%" alt="Old Robotics Website Redesign"/>
     </a>
-  </span>
-  
-  <span align="center">
     <a href="https://github.com/enVId-tech/JS-Discord-API" target="_blank">
       <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=JS-Discord-API&theme=dark" width="45%" alt="JS Discord API"/>
     </a>
     <a href="https://github.com/enVId-tech/First-Compiler" target="_blank">
       <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=First-Compiler&theme=dark" width="45%" alt="First Compiler"/>
     </a>
-  </span>
-
-  <span align="center">
     <a href="https://github.com/enVId-tech/Classroom-Website" target="_blank">
       <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=Classroom-Website&theme=dark" width="45%" alt="Classroom Website"/>
     </a>
     <a href="https://github.com/enVId-tech/OA-Code-Club-Homepage" target="_blank">
       <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=OA-Code-Club-Homepage&theme=dark" width="45%" alt="OA Code Club Home Page"/>
     </a>
-  </span>
-
-  <span align="center">
-    <a href="https://github.com/enVId-tech/Nginx-404" target="_blank">
-      <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=Nginx-404&theme=dark" width="45%" alt="Nginx 404 Page"/>
-    </a>
     <a href="https://github.com/enVId-tech/Voice-Recognition-AI" target="_blank">
       <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=Voice-Recognition-AI&theme=dark" width="45%" alt="AI Voice to Text Translator"/>
     </a>
-  </span>
-
-  <span align="center">
     <a href="https://github.com/enVId-tech/PythonDBGenerator" target="_blank">
       <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=PythonDBGenerator&theme=dark" width="45%" alt="Python Database Generator"/>
     </a>
     <a href="https://github.com/enVId-tech/Youtube-File-Storage" target="_blank">
       <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=Youtube-File-Storage&theme=dark" width="45%" alt="Youtube File Storage"/>
     </a>
-  </span>
-
-  <span align="center">
     <a href="https://github.com/enVId-tech/CSV-Convert-From-DB" target="_blank">
       <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=CSV-Convert-From-DB&theme=dark" width="45%" alt="CSV Convert From DB"/>
     </a>
         <a href="https://github.com/enVId-tech/OpenCV-Object-Detection" target="_blank">
       <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=OpenCV-Object-Detection&theme=dark" width="45%" alt="OpenCV Object Detection - On hold"/>
     </a>
-  </span>
-
-  <span align="center">
     <a href="https://github.com/enVId-tech/Mecanum-Drive-Arduino" target="_blank">
       <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=Mecanum-Drive-Arduino&theme=dark" width="45%" alt="Arduino Mechanum Drive Code - On hold"/>
     </a>
@@ -213,25 +180,24 @@
   <a href="https://github.com/Team4079/SwerveBaseTemplate" target="_blank">
     <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=Team4079&repo=SwerveBaseTemplate&theme=dark" width="45%" alt="Swerve Base Template"/>
   </a>
+  <a href="https://github.com/Team4079/Reefscape2025" target="_blank">
+    <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=Team4079&repo=Reefscape2025&theme=dark" width="45%" alt="Reefscape 2025"/>
+  </a>
 </div>
 
 <div align="center">
   <h2 align="center">
     <strong>Current Projects</strong>
   </h2>
-  <span align="center">
+    <a href="https://github.com/enVId-tech/DynDocs" target="_blank">
+      <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=DynDocs&theme=dark" width="45%" alt="DynDocs"/>
+    </a>
+    <a href="https://github.com/enVId-tech/DynDocsUI" target="_blank">
+      <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=DynDocsUI&theme=dark" width="45%" alt="DynDocsUI"/>
+    </a>
     <a href="https://github.com/enVId-tech/New-Robotics-Website-Redesign" target="_blank">
       <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=New-Robotics-Website-Redesign&theme=dark" width="45%" alt="New Robotics Website Redesign"/>
     </a>
-    <a href="https://github.com/Team4079/Reefscape2025" target="_blank">
-      <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=Team4079&repo=Reefscape2025&theme=dark" width="45%" alt="Reefscape 2025"/>
-    </a>
-  </span>
-  <span align="center">
-    <a href="https://github.com/enVId-tech/Docker-Web-Creator" target="_blank">
-      <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=Docker-Web-Creator&theme=dark" width="45%" alt="Docker Web Creator"/>
-    </a>
-  </span>
 </div>
 
 <div align="center">
