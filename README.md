@@ -119,6 +119,9 @@
     <a href="https://github.com/enVId-tech/Docker-Web-Creator" target="_blank">
       <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=Docker-Web-Creator&theme=dark" width="45%" alt="Docker Web Creator"/>
     </a>
+    <a href="https://github.com/enVId-tech/New-Robotics-Website-Redesign" target="_blank">
+      <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=New-Robotics-Website-Redesign&theme=dark" width="45%" alt="New Robotics Website Redesign"/>
+    </a>
     <a href="https://github.com/enVId-tech/Coding-Power-Website" target="_blank">
       <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=Coding-Power-Website&theme=dark" width="45%" alt="Coding Power Website"/>
     </a>
@@ -195,8 +198,8 @@
     <a href="https://github.com/enVId-tech/DynDocsUI" target="_blank">
       <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=DynDocsUI&theme=dark" width="45%" alt="DynDocsUI"/>
     </a>
-    <a href="https://github.com/enVId-tech/New-Robotics-Website-Redesign" target="_blank">
-      <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=New-Robotics-Website-Redesign&theme=dark" width="45%" alt="New Robotics Website Redesign"/>
+    <a href="https://github.com/enVId-tech/OA-Schedule-Keeper" target="_blank">
+      <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=OA-Schedule-Keeper&theme=dark" width="45%" alt="Oxford Academy Schedule Keeper"/>
     </a>
 </div>
 
