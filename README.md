@@ -198,6 +198,9 @@
     <a href="https://github.com/enVId-tech/DynDocsUI" target="_blank">
       <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=DynDocsUI&theme=dark" width="45%" alt="DynDocsUI"/>
     </a>
+    <a href="https://github.com/enVId-tech/WebDav-UI" target="_blank">
+      <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=WebDav-UI&theme=dark" width="45%" alt="WebDav-UI"/>
+    </a>
 </div>
 
 <div align="center">
