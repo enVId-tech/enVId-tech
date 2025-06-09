@@ -201,6 +201,9 @@
     <a href="https://github.com/enVId-tech/WebDav-UI" target="_blank">
       <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=WebDav-UI&theme=dark" width="45%" alt="WebDav-UI"/>
     </a>
+    <a href="https://github.com/Tonkotsu-Tech-Robotics/Swerve-2025" target="_blank">
+      <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=Tonkotsu-Tech-Robotics&repo=Swerve-2025&theme=dark" width="45%" alt="Swerve 2025">
+    </a>
 </div>
 
 <div align="center">
