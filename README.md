@@ -137,9 +137,6 @@
     <a href="https://github.com/enVId-tech/OA-Code-Club-Homepage" target="_blank">
       <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=OA-Code-Club-Homepage&theme=dark" width="45%" alt="OA Code Club Home Page"/>
     </a>
-    <a href="https://github.com/enVId-tech/Voice-Recognition-AI" target="_blank">
-      <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=Voice-Recognition-AI&theme=dark" width="45%" alt="AI Voice to Text Translator"/>
-    </a>
     <a href="https://github.com/enVId-tech/PythonDBGenerator" target="_blank">
       <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=PythonDBGenerator&theme=dark" width="45%" alt="Python Database Generator"/>
     </a>
