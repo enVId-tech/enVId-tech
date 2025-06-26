@@ -122,26 +122,14 @@
     <a href="https://github.com/enVId-tech/New-Robotics-Website-Redesign" target="_blank">
       <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=New-Robotics-Website-Redesign&theme=dark" width="45%" alt="New Robotics Website Redesign"/>
     </a>
-    <a href="https://github.com/enVId-tech/Coding-Power-Website" target="_blank">
-      <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=Coding-Power-Website&theme=dark" width="45%" alt="Coding Power Website"/>
-    </a>
     <a href="https://github.com/Team4079/robotics-management-web" target="_blank">
       <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=Team4079&repo=robotics-management-web&theme=dark" width="45%" alt="Robotics Management Web"/>
     </a>
     <a href="https://github.com/enVId-tech/Nginx-404" target="_blank">
       <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=Nginx-404&theme=dark" width="45%" alt="Nginx 404 Page"/>
     </a>
-    <a href="https://github.com/enVId-tech/Global-Youth-Scholars-Website" target="_blank">
-      <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=Global-Youth-Scholars-Website&theme=dark" width="45%" alt="Athena's Org Project"/>
-    </a>
     <a href="https://github.com/enVId-tech/Old-Robotics-Website-Redesign" target="_blank">
       <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=Old-Robotics-Website-Redesign&theme=dark" width="45%" alt="Old Robotics Website Redesign"/>
-    </a>
-    <a href="https://github.com/enVId-tech/JS-Discord-API" target="_blank">
-      <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=JS-Discord-API&theme=dark" width="45%" alt="JS Discord API"/>
-    </a>
-    <a href="https://github.com/enVId-tech/First-Compiler" target="_blank">
-      <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=First-Compiler&theme=dark" width="45%" alt="First Compiler"/>
     </a>
     <a href="https://github.com/enVId-tech/Classroom-Website" target="_blank">
       <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=Classroom-Website&theme=dark" width="45%" alt="Classroom Website"/>
@@ -167,9 +155,6 @@
     <a href="https://github.com/enVId-tech/Mecanum-Drive-Arduino" target="_blank">
       <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=Mecanum-Drive-Arduino&theme=dark" width="45%" alt="Arduino Mechanum Drive Code - On hold"/>
     </a>
-    <a href="https://github.com/enVId-tech/Roblox-Game-Exports" target="_blank">
-      <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=Roblox-Game-Exports&theme=dark" width="45%" alt="Roblox Game Exports"/>
-    </a>
   </span>
 </div>
 
@@ -192,11 +177,8 @@
   <h2 align="center">
     <strong>Current Projects</strong>
   </h2>
-    <a href="https://github.com/enVId-tech/DynDocs" target="_blank">
-      <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=DynDocs&theme=dark" width="45%" alt="DynDocs"/>
-    </a>
-    <a href="https://github.com/enVId-tech/DynDocsUI" target="_blank">
-      <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=DynDocsUI&theme=dark" width="45%" alt="DynDocsUI"/>
+    <a href="https://github.com/enVId-tech/MinecraftServerCreator" target="_blank">
+      <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=MinecraftServerCreator&theme=dark" width="45%" alt="Minecraft Server Creator"/>
     </a>
     <a href="https://github.com/enVId-tech/WebDav-UI" target="_blank">
       <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=WebDav-UI&theme=dark" width="45%" alt="WebDav-UI"/>
