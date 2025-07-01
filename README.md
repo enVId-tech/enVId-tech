@@ -21,7 +21,7 @@
 
   -   Self taught developer, 5 years
 
-  -   Software developer in [Oxford Academy Robotics](https://frc4079.org/) and [FRC Team 4079](https://github.com/Team4079)
+  -   Software developer in [Oxford Academy Robotics](https://frc4079.org/) and [FRC Team 4079](https://github.com/FRC4079)
 
   -   Currently creating hobby projects
 
@@ -159,14 +159,14 @@
   <h2 align="center">
     <strong>Contributing Projects</strong>
   </h2>
-  <a href="https://github.com/Team4079/Crescendo2024" target="_blank">
-    <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=Team4079&repo=Crescendo2024&theme=dark" width="45%" alt="Crescendo 2024"/>
+  <a href="https://github.com/FRC4079/Crescendo2024" target="_blank">
+    <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=FRC4079&repo=Crescendo2024&theme=dark" width="45%" alt="Crescendo 2024"/>
   </a>
-  <a href="https://github.com/Team4079/SwerveBaseTemplate" target="_blank">
-    <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=Team4079&repo=SwerveBaseTemplate&theme=dark" width="45%" alt="Swerve Base Template"/>
+  <a href="https://github.com/FRC4079/SwerveBaseTemplate" target="_blank">
+    <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=FRC4079&repo=SwerveBaseTemplate&theme=dark" width="45%" alt="Swerve Base Template"/>
   </a>
-  <a href="https://github.com/Team4079/Reefscape2025" target="_blank">
-    <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=Team4079&repo=Reefscape2025&theme=dark" width="45%" alt="Reefscape 2025"/>
+  <a href="https://github.com/FRC4079/Reefscape2025" target="_blank">
+    <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=FRC4079&repo=Reefscape2025&theme=dark" width="45%" alt="Reefscape 2025"/>
   </a>
 </div>
 
