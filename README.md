@@ -21,7 +21,7 @@
 
   -   Self taught developer, 5 years
 
-  -   Software developer in [Oxford Academy Robotics](https://frc4079.org/) and [FRC Team 4079](https://github.com/FRC4079)
+  -   Software developer in [Oxford Academy Robotics](http://robotics.etran.dev/) and [FRC Team 4079](https://github.com/FRC4079)
 
   -   Currently creating hobby projects
 
@@ -187,14 +187,14 @@
   <h3 align="center">Statistics</h3>
   
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=1570&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&theme=radical&langs_count=16" align="left">
-  <img align="center" src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/top-langs/?username=enVId-tech&langs_count=8&exclude_repo=ReadmeLang&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=1570&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&theme=radical&langs_count=16" align="left" width="50%" />
+  <img align="center" src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/top-langs/?username=enVId-tech&langs_count=9&exclude_repo=ReadmeLang&theme=radical" width="39%" />
 
   <br><br>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=enVId-tech&theme=2077" height="180em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=enVId-tech&theme=2077&langs_count=64" height="180em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=enVId-tech&theme=2077&langs_count=64" height="180em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=enVId-tech&theme=2077" height="180em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enVId-tech&theme=2077" height="180em" align="right" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=enVId-tech&theme=2077" width="33%">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=enVId-tech&theme=2077&langs_count=64" width="33%" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=enVId-tech&theme=2077&langs_count=64" width="33%" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=enVId-tech&theme=2077" width="30%" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enVId-tech&theme=2077"  width="69%" align="right" />
 </div>
 </div>
