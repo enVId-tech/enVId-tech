@@ -122,9 +122,6 @@
     <a href="https://github.com/enVId-tech/New-Robotics-Website-Redesign" target="_blank">
       <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=New-Robotics-Website-Redesign&theme=dark" width="45%" alt="New Robotics Website Redesign"/>
     </a>
-    <a href="https://github.com/Team4079/robotics-management-web" target="_blank">
-      <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=Team4079&repo=robotics-management-web&theme=dark" width="45%" alt="Robotics Management Web"/>
-    </a>
     <a href="https://github.com/enVId-tech/Nginx-404" target="_blank">
       <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=Nginx-404&theme=dark" width="45%" alt="Nginx 404 Page"/>
     </a>
@@ -159,14 +156,14 @@
   <h2 align="center">
     <strong>Contributing Projects</strong>
   </h2>
-  <a href="https://github.com/FRC4079/Crescendo2024" target="_blank">
-    <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=FRC4079&repo=Crescendo2024&theme=dark" width="45%" alt="Crescendo 2024"/>
+  <a href="https://github.com/FRC4079/Crescendo-2024" target="_blank">
+    <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=FRC4079&repo=Crescendo-2024&theme=dark" width="45%" alt="Crescendo 2024"/>
   </a>
   <a href="https://github.com/FRC4079/SwerveBaseTemplate" target="_blank">
     <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=FRC4079&repo=SwerveBaseTemplate&theme=dark" width="45%" alt="Swerve Base Template"/>
   </a>
-  <a href="https://github.com/FRC4079/Reefscape2025" target="_blank">
-    <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=FRC4079&repo=Reefscape2025&theme=dark" width="45%" alt="Reefscape 2025"/>
+  <a href="https://github.com/FRC4079/Reefscape-2025" target="_blank">
+    <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=FRC4079&repo=Reefscape-2025&theme=dark" width="45%" alt="Reefscape 2025"/>
   </a>
 </div>
 
