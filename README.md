@@ -44,35 +44,42 @@
   <p align="center">
     <h3>Web Languages & Frameworks</h3>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,nodejs,express,react,nextjs,electron,threejs,angular" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,nodejs,express,react,nextjs,electron,threejs,angular,vite" />
     </a>
   </p>
 
   <p>
-    <h3>Databases & Networking</h3>
+    <h3>Used Networking, Database, and General IT software</h3>
     <a href="https://skillicons.dev">
-      <img align="center" src="https://skillicons.dev/icons?i=mongodb,cloudflare,docker,firebase,github,kubernetes,npm,sqlite" />
+      <img align="center" src="https://skillicons.dev/icons?i=mongodb,cloudflare,docker,firebase,sqlite" />
     </a>
   </p>
 
   <p>
     <h3>Other commonly used languages</h3>
     <a href="https://skillicons.dev">
-      <img align="center" src="https://skillicons.dev/icons?i=java,python,bash" />
+      <img align="center" src="https://skillicons.dev/icons?i=java,python" />
     </a>
   </p>
 
   <p>
     <h3>Less commonly used languages</h3>
     <a href="https://skillicons.dev">
-      <img align="center" src="https://skillicons.dev/icons?i=c,cs,cpp,lua,md,powershell,vim,emacs,kotlin" />
+      <img align="center" src="https://skillicons.dev/icons?i=c,cs,cpp,lua,md,powershell,kotlin" />
     </a>
   </p>
 
   <p>
-    <h3>Used Apps</h3>
+    <h3>Commonly used tools</h3>
     <a href="https://skillicons.dev">
-      <img align="center" src="https://skillicons.dev/icons?i=ae,arduino,au,aws,blender,cmake,discord,docker,git,github,gmail,gradle,htmx,idea,ai,instagram,maven,nginx,notion,ps,pycharm,pytorch,raspberrypi,robloxstudio,stackoverflow,sklearn,svg,tensorflow,threejs,ubuntu,vim,visualstudio,vite,vscode,webflow,webpack,webstorm,windows,yarn" />
+      <img align="center" src="https://skillicons.dev/icons?i=bash,discord,git,github,gmail,idea,npm,powershell,stackoverflow,ubuntu,vscode,webstorm,windows" />
+    </a>
+  </p>
+
+  <p>
+    <h3>Generally used apps</h3>
+    <a href="https://skillicons.dev">
+      <img align="center" src="https://skillicons.dev/icons?i=ae,arduino,au,aws,blender,cmake,docker,emacs,gradle,htmx,ai,instagram,maven,nginx,notion,ps,pycharm,pytorch,raspberrypi,robloxstudio,sklearn,svg,tensorflow,threejs,vim,visualstudio,vite,webflow,webpack,yarn" />
     </a>
   </p>
   
