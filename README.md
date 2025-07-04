@@ -42,44 +42,44 @@
   </h2>
 
   <p align="center">
-    <h3>Web Languages & Frameworks</h3>
+    <h3>Most used languages & frameworks</h3>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,nodejs,express,react,nextjs,electron,threejs,angular,vite" />
+      <img src="https://skills-icons.vercel.app/api/icons?i=html,css,js,ts,sass,nodejs,express,react,nextjs,electron,threejs,angular,vite,reactnative" />
     </a>
   </p>
 
   <p>
-    <h3>Used Networking, Database, and General IT software</h3>
+    <h3>Used networking, database, and general IT software</h3>
     <a href="https://skillicons.dev">
-      <img align="center" src="https://skillicons.dev/icons?i=mongodb,cloudflare,docker,firebase,sqlite" />
+      <img align="center" src="https://skills-icons.vercel.app/api/icons?i=mongodb,cloudflare,docker,firebase,sqlite,truenasscale" />
     </a>
   </p>
 
   <p>
     <h3>Other commonly used languages</h3>
     <a href="https://skillicons.dev">
-      <img align="center" src="https://skillicons.dev/icons?i=java,python" />
+      <img align="center" src="https://skills-icons.vercel.app/api/icons?i=java,python" />
     </a>
   </p>
 
   <p>
     <h3>Less commonly used languages</h3>
     <a href="https://skillicons.dev">
-      <img align="center" src="https://skillicons.dev/icons?i=c,cs,cpp,lua,md,powershell,kotlin" />
+      <img align="center" src="https://skills-icons.vercel.app/api/icons?i=c,cs,cpp,lua,md,powershell,kotlin" />
     </a>
   </p>
 
   <p>
     <h3>Commonly used tools</h3>
     <a href="https://skillicons.dev">
-      <img align="center" src="https://skillicons.dev/icons?i=bash,discord,git,github,gmail,idea,npm,powershell,stackoverflow,ubuntu,vscode,webstorm,windows" />
+      <img align="center" src="https://skills-icons.vercel.app/api/icons?i=bash,chatgpt,claude,discord,gemini,git,github,githubcopilot,gmail,idea,linux,npm,macos,powershell,pycharm,stackoverflow,ubuntu,vscode,webstorm,windows" />
     </a>
   </p>
 
   <p>
     <h3>Generally used apps</h3>
     <a href="https://skillicons.dev">
-      <img align="center" src="https://skillicons.dev/icons?i=ae,arduino,au,aws,blender,cmake,docker,emacs,gradle,htmx,ai,instagram,maven,nginx,notion,ps,pycharm,pytorch,raspberrypi,robloxstudio,sklearn,svg,tensorflow,threejs,vim,visualstudio,vite,webflow,webpack,yarn" />
+      <img align="center" src="https://skills-icons.vercel.app/api/icons?i=ae,arduino,au,aws,blender,chrome,cmake,docker,emacs,gradle,htmx,ai,instagram,maven,nginx,notion,obs,ps,pycharm,pytorch,raspberrypi,robloxstudio,sklearn,svg,tensorflow,threejs,vim,visualstudio,vite,webflow,webpack,yarn,yt" />
     </a>
   </p>
   
