@@ -178,8 +178,8 @@
   <h2 align="center">
     <strong>Current Projects</strong>
   </h2>
-    <a href="https://github.com/enVId-tech/MinecraftServerCreator" target="_blank">
-      <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=MinecraftServerCreator&theme=dark" width="45%" alt="Minecraft Server Creator"/>
+    <a href="https://github.com/enVId-tech/MC-Server-Manager-UI" target="_blank">
+      <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=MC-Server-Manager-UI&theme=dark" width="45%" alt="MC Server Manager UI"/>
     </a>
     <a href="https://github.com/enVId-tech/WebDav-UI" target="_blank">
       <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=WebDav-UI&theme=dark" width="45%" alt="WebDav-UI"/>
