@@ -175,6 +175,9 @@
   <a href="https://github.com/FRC4079/Reefscape-2025" target="_blank">
     <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=FRC4079&repo=Reefscape-2025&theme=dark" width="45%" alt="Reefscape 2025"/>
   </a>
+  <a href="https://github.com/FRC4079/Reefscape-2025-Offseason" target="_blank">
+    <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=FRC4079&repo=Reefscape-2025-Offseason&theme=dark" width="45%" alt="Reefscape 2025 Offseason"/>
+  </a>
 </div>
 
 <div align="center">
