@@ -181,6 +181,9 @@
   <a href="https://github.com/FRC4079/Reefscape-2025-Offseason" target="_blank">
     <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=FRC4079&repo=Reefscape-2025-Offseason&theme=dark" width="45%" alt="Reefscape 2025 Offseason"/>
   </a>
+  <a href="https://github.com/FRC4079/FRC-Swerve-Template-2023" target="_blank">
+    <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=FRC4079&repo=FRC-Swerve-Template-2023&theme=dark" width="45%" alt="FRC Swerve Template 2023"/>
+  </a>
 </div>
 
 <div align="center">
