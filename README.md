@@ -184,6 +184,9 @@
   <a href="https://github.com/FRC4079/FRC-Swerve-Template-2023" target="_blank">
     <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=FRC4079&repo=FRC-Swerve-Template-2023&theme=dark" width="45%" alt="FRC Swerve Template 2023"/>
   </a>
+  <a href="https://github.com/Tonkotsu-Tech-Robotics/Swerve-2025" target="_blank">
+    <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=Tonkotsu-Tech-Robotics&repo=Swerve-2025&theme=dark" width="45%" alt="Swerve 2025">
+  </a>
 </div>
 
 <div align="center">
@@ -196,8 +199,8 @@
     <a href="https://github.com/enVId-tech/FAST-File-Explorer" target="_blank">
       <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=FAST-File-Explorer&theme=dark" width="45%" alt="FAST File Explorer"/>
     </a>
-    <a href="https://github.com/Tonkotsu-Tech-Robotics/Swerve-2025" target="_blank">
-      <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=Tonkotsu-Tech-Robotics&repo=Swerve-2025&theme=dark" width="45%" alt="Swerve 2025">
+    <a href="https://github.com/enVId-tech/MC-TowerDef-Kt" target="_blank">
+      <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=MC-TowerDef-Kt&theme=dark" width="45%" alt="MC Tower Def Kt"/>
     </a>
 </div>
 
