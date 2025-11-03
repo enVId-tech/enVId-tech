@@ -25,7 +25,7 @@
 
   -   Currently creating hobby projects
 
-  -   Website developer and app developer
+  -   Full Stack Web dev, app dev, game dev, systems dev.
 
   -   I primarily use TypeScript, but also other languages available below
 
