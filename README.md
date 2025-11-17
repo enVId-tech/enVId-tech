@@ -162,6 +162,9 @@
     <a href="https://github.com/enVId-tech/Mecanum-Drive-Arduino" target="_blank">
       <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=Mecanum-Drive-Arduino&theme=dark" width="45%" alt="Arduino Mechanum Drive Code - On hold"/>
     </a>
+    <a href="https://github.com/enVId-tech/MC-TowerDef-Kt" target="_blank">
+      <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=MC-TowerDef-Kt&theme=dark" width="45%" alt="MC Tower Def Kt"/>
+    </a>
   </span>
 </div>
 
@@ -198,9 +201,6 @@
     </a>
     <a href="https://github.com/enVId-tech/FAST-File-Explorer" target="_blank">
       <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=FAST-File-Explorer&theme=dark" width="45%" alt="FAST File Explorer"/>
-    </a>
-    <a href="https://github.com/enVId-tech/MC-TowerDef-Kt" target="_blank">
-      <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=enVId-tech&repo=MC-TowerDef-Kt&theme=dark" width="45%" alt="MC Tower Def Kt"/>
     </a>
 </div>
 
