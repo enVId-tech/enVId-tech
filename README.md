@@ -27,7 +27,7 @@
 
   -   Mainly a TypeScript developer, but additional used languages are below
 
-  Portfolio website available <a href="https://www.etran.dev/" target="_blank" rel="noopener noreferrer">here</a>
+  Portfolio website available <a href="https://www.etran.dev/" target="_blank" rel="noopener noreferrer">here</a> or at <a href="https://www.etran.dev/" target="_blank" rel="noopener noreferrer">https://etran.dev/</a>
   <br>
   Want to contact me? Email me at <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=erick.tran@etran.dev" target="_blank" rel="noopener noreferrer">erick.tran@etran.dev</a>
 </div>
