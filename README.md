@@ -23,9 +23,9 @@
 
   -   Currently creating hobby projects
 
-  -   Full Stack Website Development (and a bit more)
+  -   Full Stack Website Development (and some other development)
 
-  -   I primarily use TypeScript, but also other languages available below
+  -   Mainly a TypeScript developer, but additional used languages are below
 
   Portfolio website available <a href="https://www.etran.dev/" target="_blank" rel="noopener noreferrer">here</a>
   <br>
