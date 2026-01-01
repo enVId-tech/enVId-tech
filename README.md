@@ -21,11 +21,9 @@
 
   -   Self taught developer, 5 years
 
-  -   Software developer in [Oxford Academy Robotics](http://robotics.etran.dev/) and [FRC Team 4079](https://github.com/FRC4079)
-
   -   Currently creating hobby projects
 
-  -   Full Stack Web dev, app dev, game dev, systems dev.
+  -   Full Stack Website Development (and a bit more)
 
   -   I primarily use TypeScript, but also other languages available below
 
