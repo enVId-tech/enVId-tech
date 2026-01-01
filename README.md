@@ -17,9 +17,9 @@
 <div align="left">
   <h2 align="center">Background</h2>
   
-  I am a high school student in Anaheim, California
+  I am a high school student located in Anaheim, California
 
-  -   Self taught developer, 5 years
+  -   Self taught developer, since July 2020
 
   -   Currently creating hobby projects
 
