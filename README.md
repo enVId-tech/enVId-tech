@@ -49,7 +49,7 @@
   <p>
     <h3>Used networking, database, and general IT software</h3>
     <a href="https://skillicons.dev">
-      <img align="center" src="https://skills-icons.vercel.app/api/icons?i=mongodb,cloudflare,docker,firebase,sqlite,truenasscale" />
+      <img align="center" src="https://skills-icons.vercel.app/api/icons?i=mongodb,cloudflare,docker,sqlite,truenas" />
     </a>
   </p>
 </p>
@@ -124,8 +124,8 @@
   <h3 align="center">Statistics</h3>
   
   <br>
-  <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/wakatime?username=1570&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&theme=radical&langs_count=16" align="left" width="54%" />
-  <img align="center" src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/top-langs/?username=enVId-tech&langs_count=9&exclude_repo=ReadmeLang&theme=radical" width="39%" />
+  <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/wakatime?username=1570&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&theme=radical&langs_count=10" align="left" width="54%" />
+  <img align="center" src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/top-langs/?username=enVId-tech&langs_count=5&exclude_repo=ReadmeLang&theme=radical" width="39%" />
 
   <br><br>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=enVId-tech&theme=2077" width="33%">
