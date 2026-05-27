@@ -128,10 +128,10 @@
   <img align="center" src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/top-langs/?username=enVId-tech&langs_count=5&exclude_repo=ReadmeLang&theme=radical" width="39%" />
 
   <br><br>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=enVId-tech&theme=2077" width="33%">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=enVId-tech&theme=2077&langs_count=64" width="33%" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=enVId-tech&theme=2077&langs_count=64" width="33%" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=enVId-tech&theme=2077" width="30%">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=enVId-tech&theme=2077&langs_count=64" width="30%" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=enVId-tech&theme=2077&langs_count=64" width="30%" />
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=enVId-tech&theme=2077" width="30%" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enVId-tech&theme=2077"  width="69%" align="right" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enVId-tech&theme=2077"  width="60%" align="right" />
 </div>
 </div>
