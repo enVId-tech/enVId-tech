@@ -133,5 +133,6 @@
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=enVId-tech&theme=2077&langs_count=64" width="30%" />
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=enVId-tech&theme=2077" width="30%" />
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enVId-tech&theme=2077"  width="60%" align="right" />
+  ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FenVId-tech&label=Page%20Visitors&countColor=%23263759)
 </div>
 </div>
