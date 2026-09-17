@@ -6,7 +6,7 @@
   </a>
 
   <a href="https://github.com/enVId-tech" width="100%">
-    <img align="center" src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=38&duration=1500&pause=1500&center=true&vCenter=true&color=00E1F7&random=false&width=800&lines=Full+Stack+Website+Developer,+Engineer" alt="Hi all! I'm Erick, welcome to my profile." />
+    <img align="center" src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=38&duration=1500&pause=1500&center=true&vCenter=true&color=00E1F7&random=false&width=800&lines=Full+Stack+Web+Developer,+Network+Engineer" alt="Hi all! I'm Erick, welcome to my profile." />
   </a>
 </div>
 
